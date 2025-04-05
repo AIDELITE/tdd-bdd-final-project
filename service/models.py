@@ -57,7 +57,7 @@ class Category(Enum):
     FOOD = 2
     HOUSEWARES = 3
     AUTOMOTIVE = 4
-    TOOLS = 5
+    TOOLS = 5 
 
 
 class Product(db.Model):
